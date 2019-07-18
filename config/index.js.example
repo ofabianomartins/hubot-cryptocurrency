@@ -1,0 +1,3 @@
+module.exports = {
+  coinmarket_api_key: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+}
