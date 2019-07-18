@@ -31,5 +31,3 @@ module.exports = (robot) ->
     ).catch( (error) =>
       res.send(error)
     )
-      
-    
